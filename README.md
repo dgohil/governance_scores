@@ -1,2 +1,6 @@
 # governance_scores
-Visualisation of NRT governance scores
+Animated choroplethic visualisation of NRT's governance scores.
+
+This uses the methodology developed by Ramnath and diegovalle and rMaps to create a choroplethis map that uses non-US data and a different shapefile.
+
+
